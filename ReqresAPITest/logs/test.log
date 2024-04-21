@@ -1,0 +1,15 @@
+2024-04-21 20:24:06.003 [main] INFO  POReqresAPITest - *******Start DELETE API Testing********
+2024-04-21 20:24:06.436 [main] INFO  POReqresAPITest - DELETE API validated successfully
+2024-04-21 20:24:06.436 [main] INFO  POReqresAPITest - *******End DELETE API Testing********
+2024-04-21 20:24:06.440 [main] INFO  POReqresAPITest - *******Start GET API Testing********
+2024-04-21 20:24:06.498 [main] INFO  POReqresAPITest - Get Response body: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-04-21 20:24:06.656 [main] INFO  POReqresAPITest - GET API validated successfully
+2024-04-21 20:24:06.656 [main] INFO  POReqresAPITest - *******End of GET API Testing********
+2024-04-21 20:24:06.656 [main] INFO  POReqresAPITest - *******Start POST API Testing********
+2024-04-21 20:24:06.743 [main] INFO  POReqresAPITest - Post Response body: {"name":"Lakshmi","job":"Lead QA","id":"673","createdAt":"2024-04-21T19:24:06.741Z"}
+2024-04-21 20:24:06.750 [main] INFO  POReqresAPITest - POST API validated successfully
+2024-04-21 20:24:06.750 [main] INFO  POReqresAPITest - *******End POST API Testing********
+2024-04-21 20:24:06.750 [main] INFO  POReqresAPITest - *******Start PUT API Testing********
+2024-04-21 20:24:06.906 [main] INFO  POReqresAPITest - Put Response body: {"name":"Lakshmi","job":"IT","updatedAt":"2024-04-21T19:24:06.904Z"}
+2024-04-21 20:24:06.920 [main] INFO  POReqresAPITest - PUT API validated successfully
+2024-04-21 20:24:06.920 [main] INFO  POReqresAPITest - *******End PUT API Testing********
